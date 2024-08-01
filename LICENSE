@@ -1,0 +1,58 @@
+ChatMotor API License Agreement
+
+This ChatMotor API License Agreement (the "Agreement") is entered into by and between you or the entity you represent ("Licensee") and ChatMotor, Inc. ("Licensor"), and governs Licensee's use of the ChatMotor API ("API"). By accessing or using the API, Licensee agrees to be bound by this Agreement.
+
+1. License Grant
+Licensor grants Licensee a non-exclusive, non-transferable, revocable license to access and use the API solely for the purpose of integrating and using the functionality provided by the API within Licensee's applications in accordance with the terms of this Agreement.
+
+2. Seat-Based Licensing
+•   Each license purchased is linked to a specific number of developers or seats.
+•   A single license allows one developer to use the API. The licensed developer has the right to install and use the API on any number of computers.
+•   There are no runtime fees associated with the use of the API.
+•   Additional developers must each have their own separate license. A developer without a valid license is not permitted to use the API.
+
+3. Restrictions
+Licensee shall not:
+•   Sublicense, sell, rent, lease, or otherwise distribute the API to any third party.
+•   Modify, reverse engineer, decompile, or disassemble the API.
+•   Use the API to create a competing product or service.
+•   Use the API in any manner that violates any applicable laws or regulations.
+
+5. Intellectual Property
+All rights, title, and interest in and to the API, including all intellectual property rights therein, are and shall remain the property of Licensor. Licensee acquires no rights in the API other than those expressly granted in this Agreement.
+
+6. Confidentiality
+Licensee agrees to maintain the confidentiality of any non-public information disclosed by Licensor related to the API and shall not disclose such information to any third party without Licensor's prior written consent.
+
+7. Data Privacy
+Licensee shall ensure that any data collected, processed, or stored using the API complies with all applicable data protection and privacy laws. Licensee shall obtain all necessary consents from end-users before collecting any personal data through the API.
+
+8. Termination
+Licensor may terminate this Agreement and Licensee's access to the API at any time without notice if Licensee breaches any term of this Agreement. Upon termination, Licensee shall cease all use of the API and delete any data obtained through the API.
+
+9. Disclaimer of Warranties
+THE API IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. LICENSOR DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+10. Limitation of Liability
+IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS OR REVENUE, WHETHER INCURRED DIRECTLY OR INDIRECTLY, RESULTING FROM LICENSEE'S USE OF THE API, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+11. Indemnification
+Licensee agrees to indemnify, defend, and hold harmless Licensor from and against any and all claims, liabilities, damages, losses, and expenses, including reasonable attorneys' fees, arising out of or in any way connected with Licensee's use of the API or breach of this Agreement.
+
+12. Support
+Licensor provides support for the API as part of the license. Support is available Monday through Friday, from 9 AM to 6 PM (French schedules). Licensor will respond to support requests within 24 hours from the submission of the problem.
+
+13. Governing Law
+This Agreement shall be governed by and construed in accordance with the laws of the jurisdiction in which Licensor is headquartered (Paris, France), without regard to its conflict of laws principles.
+
+14. Miscellaneous
+•   This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior agreements and understandings.
+•   Any modifications to this Agreement must be in writing and signed by both parties.
+•   If any provision of this Agreement is found to be unenforceable, the remaining provisions will remain in full force and effect.
+•   Licensee may not assign or transfer any of its rights or obligations under this Agreement without the prior written consent of Licensor.
+
+By accessing or using the ChatMotor API, Licensee acknowledges that it has read, understood, and agrees to be bound by the terms and conditions of this Agreement.
+ChatMotorAI – A Spin-Off of KawanSoft 
+
+[Effective Date: July 19, 2024]
+
