@@ -1,4 +1,6 @@
-# ChatMotor API 
+# ChatMotor SDK
+
+# Streamline OpenAI & ChatGPT Integration
 
 <img src="https://docs.aceql.com/img/chatmotor-logo.png" width="200" alt="ChatMotor HTTP Icon"/>
 
