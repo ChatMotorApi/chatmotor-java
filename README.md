@@ -1,12 +1,10 @@
-# chatmotor-java
+# ChatMotor API 
 
 <img src="https://docs.aceql.com/img/chatmotor-logo.png" width="200" alt="ChatMotor HTTP Icon"/>
 
-Welcome to the ChatMotor Java SDK repository. ChatMotor is designed to streamline the integration of OpenAI and ChatGPT into your Java applications. It handles the complexities of API interactions, allowing you to focus on building your application instead of managing the intricacies of API calls.
+Welcome to the ChatMotor Java SDK repository, which serves as a general presentation for ChatMotor. ChatMotor is designed to streamline the integration of OpenAI and ChatGPT into your Java applications by handling the complexities of API interactions, allowing you to focus on building your application instead of managing the intricacies of API calls.
 
-## Important Note
-
-Please be aware that this GitHub repository serves as an informational page about ChatMotor. All the resources, including downloads, documentation, and support, are available exclusively on our official website: [www.chatmotor.ai](https://www.chatmotor.ai). You won't find any source code or downloadable assets here.
+Please note that this GitHub repository is purely informational. All resources, including downloads, documentation, and support, are available exclusively on our official website: [www.chatmotor.ai](https://www.chatmotor.ai). You won't find any source code or downloadable assets here.
 
 ## Features
 
@@ -24,11 +22,7 @@ Please be aware that this GitHub repository serves as an informational page abou
 
 ## Getting Started
 
-To get started with ChatMotor, visit our website at [www.chatmotor.ai](https://www.chatmotor.ai). There you will find all the necessary resources to download the library, access detailed documentation, and explore code examples that will help you integrate ChatMotor into your projects effectively.
-
-## Documentation
-
-For detailed usage instructions, please refer to the official documentation available on our website. The documentation includes complete Javadoc, code examples, and comprehensive guides to help you integrate ChatMotor into your projects effectively.
+To get started with ChatMotor, visit our website at [www.chatmotor.ai](https://www.chatmotor.ai). There you will find the library download, detailed documentation, Javadoc, code examples, and comprehensive guides to help you integrate ChatMotor into your projects effectively.
 
 ## Support
 
@@ -36,4 +30,7 @@ If you encounter any issues or have questions, please open an issue on GitHub or
 
 ## License
 
-This project is licensed under the terms and conditions specified in the LICENSE file. Please refer to it for more information.
+This project is licensed under the terms and conditions specified in the [LICENSE](https://github.com/ChatMotorApi/chatmotor-java?tab=License-1-ov-file) file. Please refer to it for more information.
+
+________________________________________
+
