@@ -1,4 +1,4 @@
-# ChatMotor SDK
+# ChatMotor Java SDK
 
 # Streamline OpenAI & ChatGPT Integration
 
