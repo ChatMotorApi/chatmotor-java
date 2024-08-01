@@ -4,9 +4,11 @@
 
 <img src="https://docs.aceql.com/img/chatmotor-logo.png" width="200" alt="ChatMotor HTTP Icon"/>
 
-Welcome to the ChatMotor Java SDK repository, which serves as a general presentation for ChatMotor. ChatMotor is designed to streamline the integration of OpenAI and ChatGPT into your Java applications by handling the complexities of API interactions, allowing you to focus on building your application instead of managing the intricacies of API calls.
+Welcome to the ChatMotor Java SDK repository, which serves as a general presentation for ChatMotor. ChatMotor is a proprietary tool designed to streamline the integration of OpenAI and ChatGPT into your Java applications by handling the complexities of API interactions, allowing you to focus on building your application instead of managing the intricacies of API calls.
 
-Please note that this GitHub repository is purely informational. All resources, including downloads, documentation, and support, are available exclusively on our official website: [www.chatmotor.ai](https://www.chatmotor.ai). You won't find any source code or downloadable assets here.
+This GitHub repository is purely informational. All resources, including downloads, documentation, and support, are available on our official website: [www.chatmotor.ai](https://www.chatmotor.ai).
+
+**Licensing Model:** ChatMotor offers a [lifetime license](https://www.chatmotor.ai/pricing/) with no recurring fees and no runtime costs, ensuring long-term value and cost-effectiveness for developers.
 
 ## Features
 
