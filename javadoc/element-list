@@ -1,0 +1,15 @@
+com.chatmotorapi.api
+com.chatmotorapi.api.experimental
+com.chatmotorapi.api.functional
+com.chatmotorapi.api.image
+com.chatmotorapi.api.listener
+com.chatmotorapi.api.listener.progress
+com.chatmotorapi.api.models
+com.chatmotorapi.api.notify
+com.chatmotorapi.api.notify.failover
+com.chatmotorapi.api.speech
+com.chatmotorapi.api.transcription
+com.chatmotorapi.api.util
+com.chatmotorapi.api.util.exception
+com.chatmotorapi.api.version
+com.chatmotorapi.api.vision

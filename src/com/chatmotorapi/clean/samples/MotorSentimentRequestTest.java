@@ -55,6 +55,7 @@ public class MotorSentimentRequestTest {
 		.filePath(filePath)
 		.build();
 	 
+	 
          // Execute the request.
 	 MotorSentimentResponse response = request.execute();
 	 

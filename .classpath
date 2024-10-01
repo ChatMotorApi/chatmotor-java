@@ -8,7 +8,11 @@
 	</classpathentry>
 	<classpathentry kind="lib" path="lib/activation-1.1.jar"/>
 	<classpathentry kind="lib" path="lib/annotations-13.0.jar"/>
-	<classpathentry kind="lib" path="lib/chatmotor-1.2-beta.jar"/>
+	<classpathentry kind="lib" path="lib/chatmotor-1.2-beta.jar" sourcepath="C:/Users/ndepo/chatmotor-api-1.2-beta/">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/I:/_dev_chatmotorapi_test/javadoc/"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="lib" path="lib/chatmotor-public-sound.jar"/>
 	<classpathentry kind="lib" path="lib/classmate-1.5.1.jar"/>
 	<classpathentry kind="lib" path="lib/cleverclient-1.4.3.jar"/>
