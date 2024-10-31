@@ -71,7 +71,6 @@ public class MotorTranslationRequestSampleHtml2 {
 		.motorAiOptions(options)
 		.filePath(filePath)
 		.languageCode("fr")
-		.useInputStreaming(true) // Enable streaming to reduce memory usage for large files.
 		.build();
 
 	// Execute the translation request (see code above)
